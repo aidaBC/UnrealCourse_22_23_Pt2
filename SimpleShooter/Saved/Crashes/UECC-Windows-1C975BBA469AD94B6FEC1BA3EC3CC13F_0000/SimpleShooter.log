@@ -1,0 +1,1076 @@
+﻿Log file open, 09/17/22 17:01:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=5560)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SimpleShooter
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/SimpleShooter.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.2006] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f73be6944f5ec181d0b16982c8ce4a2f"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.320875
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1C975BBA469AD94B6FEC1BA3EC3CC13F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.2006] (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.17-15.01.45:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.17-15.01.45:269][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.17-15.01.45:269][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.17-15.01.45:269][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.17-15.01.45:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.17-15.01.45:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.17-15.01.45:269][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.17-15.01.45:269][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.17-15.01.45:269][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.17-15.01.45:270][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.17-15.01.45:270][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.17-15.01.45:273][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.17-15.01.45:287][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.17-15.01.45:287][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.17-15.01.45:777][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 (Max supported Feature Level 12_1, shader model 6.4)
+[2022.09.17-15.01.45:777][  0]LogD3D12RHI: Adapter has 4021MB of dedicated video memory, 0MB of dedicated system memory, and 8134MB of shared system memory, 1 output[s]
+[2022.09.17-15.01.45:848][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) HD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.09.17-15.01.45:848][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8134MB of shared system memory, 0 output[s]
+[2022.09.17-15.01.45:854][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.17-15.01.45:854][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8134MB of shared system memory, 0 output[s]
+[2022.09.17-15.01.45:854][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.17-15.01.45:855][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.17-15.01.45:855][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.17-15.01.45:855][  0]LogHAL: Display: Platform has ~ 16 GB [17059098624 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.17-15.01.45:855][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.17-15.01.45:855][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.17-15.01.45:855][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.17-15.01.45:855][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.17-15.01.45:855][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.17-15.01.45:855][  0]LogInit: Computer: DESKTOP-AONUVMI
+[2022.09.17-15.01.45:855][  0]LogInit: User: Usuario
+[2022.09.17-15.01.45:855][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.17-15.01.45:855][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.17-15.01.45:855][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.09.17-15.01.45:855][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.17-15.01.45:855][  0]LogMemory: Process Physical Memory: 269.44 MB used, 273.54 MB peak
+[2022.09.17-15.01.45:855][  0]LogMemory: Process Virtual Memory: 220.43 MB used, 220.43 MB peak
+[2022.09.17-15.01.45:855][  0]LogMemory: Physical Memory: 5763.00 MB used,  10505.82 MB free, 16268.82 MB total
+[2022.09.17-15.01.45:855][  0]LogMemory: Virtual Memory: 6970.07 MB used,  11730.75 MB free, 18700.82 MB total
+[2022.09.17-15.01.45:855][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.17-15.01.45:862][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.17-15.01.45:878][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.17-15.01.45:879][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.09.17-15.01.45:879][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.09.17-15.01.46:064][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.17-15.01.46:079][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.17-15.01.46:079][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2022.09.17-15.01.46:079][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+[2022.09.17-15.01.46:079][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2022.09.17-15.01.46:093][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.17-15.01.46:093][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.17-15.01.46:253][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.17-15.01.46:259][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.17-15.01.46:260][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.17-15.01.46:382][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.09.17-15.01.46:445][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.17-15.01.46:451][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.17-15.01.46:461][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.17-15.01.46:473][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.17-15.01.46:473][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.17-15.01.46:516][  0]LogD3D12RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2022.09.17-15.01.46:516][  0]LogWindows: Attached monitors:
+[2022.09.17-15.01.46:516][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.09.17-15.01.46:516][  0]LogWindows: Found 1 attached monitors.
+[2022.09.17-15.01.46:516][  0]LogWindows: EnumDisplayDevices:
+[2022.09.17-15.01.46:516][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.09.17-15.01.46:517][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.09.17-15.01.46:517][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.17-15.01.46:517][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.09.17-15.01.46:517][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.09.17-15.01.46:517][  0]LogD3D12RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.09.17-15.01.46:517][  0]LogD3D12RHI:      Driver Date: Unknown
+[2022.09.17-15.01.46:517][  0]LogRHI: Texture pool is 2153 MB (70% of 3076 MB)
+[2022.09.17-15.01.46:517][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.17-15.01.46:517][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.17-15.01.46:531][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.17-15.01.46:537][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/SimpleShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/SimpleShooter.uproject"  -platform=all'
+[2022.09.17-15.01.46:537][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/SimpleShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/SimpleShooter.uproject"  -platform=all" ]
+[2022.09.17-15.01.46:573][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.17-15.01.46:581][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.17-15.01.46:581][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.17-15.01.46:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.17-15.01.46:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.17-15.01.46:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.17-15.01.46:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.17-15.01.46:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.17-15.01.46:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.17-15.01.46:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.17-15.01.46:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.17-15.01.46:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.17-15.01.46:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.17-15.01.46:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.17-15.01.46:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.17-15.01.46:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.17-15.01.46:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.17-15.01.46:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.17-15.01.46:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.17-15.01.46:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.17-15.01.46:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.17-15.01.46:639][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.17-15.01.46:646][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.17-15.01.46:649][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.17-15.01.46:649][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.17-15.01.46:649][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.17-15.01.46:649][  0]LogTargetPlatformManager:   PCM
+[2022.09.17-15.01.46:652][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.17-15.01.46:652][  0]LogTargetPlatformManager:   BINKA
+[2022.09.17-15.01.46:652][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.17-15.01.46:652][  0]LogTargetPlatformManager:   OGG
+[2022.09.17-15.01.46:652][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.17-15.01.46:652][  0]LogTargetPlatformManager:   OPUS
+[2022.09.17-15.01.46:698][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.17-15.01.46:704][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.17-15.01.46:705][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.17-15.01.46:705][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.17-15.01.46:705][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.17-15.01.46:705][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.17-15.01.46:705][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.17-15.01.46:705][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.17-15.01.46:708][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.17-15.01.46:708][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.17-15.01.46:708][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.17-15.01.46:708][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.17-15.01.46:708][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.17-15.01.46:708][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.17-15.01.46:708][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.17-15.01.46:708][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.17-15.01.46:708][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.17-15.01.46:712][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.17-15.01.46:713][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.17-15.01.46:717][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.17-15.01.46:720][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.17-15.01.46:720][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.17-15.01.46:720][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.17-15.01.46:720][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.17-15.01.46:741][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.17-15.01.46:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.17-15.01.46:741][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.17-15.01.46:750][  0]LogDerivedDataCache: Speed tests for C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.17-15.01.46:750][  0]LogDerivedDataCache: Display: Performance to C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1114.47MBs, RandomWriteSpeed=135.18MBs. Assigned SpeedClass 'Local'
+[2022.09.17-15.01.46:751][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.17-15.01.46:751][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.17-15.01.46:751][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.17-15.01.46:758][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.17-15.01.46:758][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.17-15.01.46:759][  0]LogShaderCompilers: Guid format shader working directory is -63 characters bigger than the processId version (../../../../../../Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Intermediate/Shaders/WorkingDirectory/14192/).
+[2022.09.17-15.01.46:759][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/9EC9F4244D3C53B00B4BB3AF7D358695/'.
+[2022.09.17-15.01.46:759][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.17-15.01.46:759][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.09.17-15.01.48:316][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.17-15.01.48:317][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.17-15.01.48:317][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.17-15.01.48:358][  0]LogAssetRegistry: FAssetRegistry took 0.0138 seconds to start up
+[2022.09.17-15.01.48:365][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.17-15.01.48:594][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.17-15.01.48:595][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.17-15.01.49:070][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.17-15.01.49:070][  0]LogDeviceProfileManager: Active device profile: [00000BCC50505240][00000BCC42700000 50] WindowsEditor
+[2022.09.17-15.01.49:070][  0]LogDeviceProfileManager: Profiles: [00000BCC50501500][00000BCC42702800 50] Windows, [00000BCC50505240][00000BCC42700000 50] WindowsEditor, [00000BCC50503640][00000BCC4270A000 50] WindowsServer, [00000BCC505001C0][00000BCC37DC7800 50] WindowsClient, [00000BCC50503D40][00000BCC426A7800 50] IOS, [00000BCC50502A00][00000BCC42705000 50] iPadAir2, [00000BCC505071C0][00000BCC50560000 50] IPadPro, [00000BCC50507540][00000BCC50562800 50] iPadAir3, [00000BCC505039C0][00000BCC50567800 50] iPadAir4, [00000BCC50507000][00000BCC5056A000 50] iPadMini4, [00000BCC50501F80][00000BCC5056C800 50] iPadMini5, [00000BCC50506AC0][00000BCC426A5000 50] iPadMini6, [00000BCC5050B600][00000BCC505A2800 50] iPhone6S, [00000BCC5050B980][00000BCC505A0000 50] iPhone7, [00000BCC50507380][00000BCC505A5000 50] iPodTouch7, [00000BCC5050AB80][00000BCC505AA000 50] iPhone6SPlus, [00000BCC5050AF00][00000BCC505AC800 50] iPhone7Plus, [00000BCC50501180][00000BCC50565000 50] iPhoneSE, [00000BCC505024C0][00000BCC505A7800 50] iPhone8, [00000BCC50509A00][00000BCC50580000 50] iPhone8Plus, [00000BCC50506040][00000BCC50585000 50] iPhoneX, [00000BCC50500A80][00000BCC50587800 50] iPhoneXS, [00000BCC50502D80][00000BCC5058A000 50] iPhoneXSMax, [00000BCC5050B7C0][00000BCC5058C800 50] iPhoneXR, [00000BCC505040C0][00000BCC4904C800 50] iPhone11, [00000BCC50500FC0][00000BCC50550000 50] iPhone11Pro, [00000BCC50502BC0][00000BCC50555000 50] iPhone11ProMax, [00000BCC5050A2C0][00000BCC50557800 50] iPhoneSE2, [00000BCC50508880][00000BCC5055A000 50] iPhone12Mini, [00000BCC50505E80][00000BCC5055C800 50] iPhone12, [00000BCC50500380][00000BCC50582800 50] iPhone12Pro, [00000BCC50507E00][00000BCC505D0000 50] iPhone12ProMax, [00000BCC5050B440][00000BCC505D5000 50] iPhone13Mini, [00000BCC50500E00][00000BCC505D7800 50] iPhone13, [00000BCC505078C0][00000BCC505DA000 50] iPhone13Pro, [00000BCC50503F00][00000BCC505DC800 50] iPhone13ProMax, [00000BCC50500000][00000BCC50552800 50] iPadPro105, [00000BCC50509300][00000BCC505E0000 50] iPadPro129, [00000BCC50502680][00000BCC505E5000 50] iPadPro97, [00000BCC50506C80][00000BCC505E7800 50] iPadPro2_129, [00000BCC50509F40][00000BCC505EA000 50] iPad5, [00000BCC50501C00][00000BCC505EC800 50] iPad6, [00000BCC50509840][00000BCC505D2800 50] iPad7, [00000BCC50506740][00000BCC505F0000 50] iPad8, [00000BCC50505780][00000BCC505F5000 50] iPad9, [00000BCC505063C0][00000BCC505F7800 50] iPadPro11, [00000BCC50502300][00000BCC505FA000 50] iPadPro2_11, [00000BCC5050A480][00000BCC505FC800 50] iPadPro3_11, [00000BCC50506E40][00000BCC505E2800 50] iPadPro3_129, [00000BCC505094C0][00000BCC50600000 50] iPadPro4_129, [00000BCC50508C00][00000BCC50605000 50] iPadPro5_129, [00000BCC5050A100][00000BCC50607800 50] AppleTV, [00000BCC50503480][00000BCC5060A000 50] AppleTV4K, [00000BCC505008C0][00000BCC5060C800 50] TVOS, [00000BCC50501A40][00000BCC50620000 50] Mac, [00000BCC50500C40][00000BCC50622800 50] MacEditor, [00000BCC50505CC0][00000BCC50627800 50] MacClient, [00000BCC5050A800][00000BCC5062A000 50] MacServer, [00000BCC50500700][00000BCC505F2800 50] Linux, [00000BCC50509140][00000BCC50602800 50] LinuxEditor, [00000BCC5050C5C0][00000BCC5062C800 50] LinuxArm64Editor, [00000BCC505086C0][00000BCC50610000 50] LinuxArm64, [00000BCC50508A40][00000BCC50615000 50] LinuxClient, [00000BCC50504B40][00000BCC50617800 50] LinuxArm64Client, [00000BCC505055C0][00000BCC5061A000 50] LinuxServer, [00000BCC50500540][00000BCC5061C800 50] LinuxArm64Server, [00000BCC50504280][00000BCC50625000 50] Android, [00000BCC505047C0][00000BCC50630000 50] Android_Preview_OpenGL, [00000BCC5050C940][00000BCC50635000 50] Android_Preview_Vulkan, [00000BCC5050AD40][00000BCC50637800 50] Android_Low, [00000BCC50504440][00000BCC5063A000 50] Android_Mid, [00000BCC50504980][00000BCC5063C800 50] Android_High, [00000BCC50507700][00000BCC50612800 50] Android_Default, [00000BCC50509D80][00000BCC50640000 50] Android_Adreno4xx, [00000BCC50502140][00000BCC50645000 50] Android_Adreno5xx_Low, [00000BCC50501880][00000BCC50647800 50] Android_Adreno5xx, [00000BCC50503800][00000BCC5064A000 50] Android_Adreno6xx, [00000BCC50501340][00000BCC5064C800 50] Android_Adreno6xx_Vulkan, [00000BCC50505400][00000BCC50632800 50] Android_Adreno7xx, [00000BCC50502840][00000BCC50650000 50] Android_Adreno7xx_Vulkan, [00000BCC505032C0][00000BCC50655000 50] Android_Mali_T6xx, [00000BCC5050A640][00000BCC50657800 50] Android_Mali_T7xx, [00000BCC5050B0C0][00000BCC5065A000 50] Android_Mali_T8xx, [00000BCC50504600][00000BCC5065C800 50] Android_Mali_G71, [00000BCC50504D00][00000BCC50642800 50] Android_Mali_G72, [00000BCC50503100][00000BCC50660000 50] Android_Mali_G72_Vulkan, [00000BCC50508F80][00000BCC50665000 50] Android_Mali_G76, [00000BCC50507A80][00000BCC50667800 50] Android_Mali_G76_Vulkan, [00000BCC50505B00][00000BCC5066A000 50] Android_Mali_G77, [00000BCC5050C780][00000BCC5066C800 50] Android_Mali_G77_Vulkan, [00000BCC5050CB00][00000BCC50652800 50] Android_Mali_G78, [00000BCC5050BD00][00000BCC50670000 50] Android_Mali_G78_Vulkan, [00000BCC50501DC0][00000BCC50675000 50] Android_Mali_G710, [00000BCC5050DAC0][00000BCC50677800 50] Android_Mali_G710_Vulkan, [00000BCC50508500][00000BCC5067A000 50] Android_Xclipse_920, [00000BCC5050CE80][00000BCC5067C800 50] Android_Xclipse_920_Vulkan, [00000BCC5050BEC0][00000BCC50662800 50] Android_Vulkan_SM5, [00000BCC50507FC0][00000BCC50680000 50] Android_PowerVR_G6xxx, [00000BCC5050BB40][00000BCC50685000 50] Android_PowerVR_GT7xxx, [00000BCC5050A9C0][00000BCC50687800 50] Android_PowerVR_GE8xxx, [00000BCC50509BC0][00000BCC5068A000 50] Android_PowerVR_GM9xxx, [00000BCC5050EA80][00000BCC5068C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000BCC505016C0][00000BCC50672800 50] Android_TegraK1, [00000BCC5050DE40][00000BCC50690000 50] Android_Unknown_Vulkan, [00000BCC50506580][00000BCC50695000 50] Oculus_Quest, [00000BCC50506200][00000BCC50697800 50] Oculus_Quest2, [00000BCC5050E700][00000BCC5069A000 50] HoloLens, 
+[2022.09.17-15.01.49:070][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.17-15.01.49:085][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.17-15.01.49:293][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.09.17-15.01.49:293][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.17-15.01.49:293][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.17-15.01.49:293][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.17-15.01.49:294][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.17-15.01.49:294][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.17-15.01.49:294][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.17-15.01.49:356][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.17-15.01.49:356][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.17-15.01.49:356][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.17-15.01.49:356][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.17-15.01.49:356][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.17-15.01.49:379][  0]LogNetVersion: SimpleShooter 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1421370123)
+[2022.09.17-15.01.49:569][  0]LogSlate: Border
+[2022.09.17-15.01.49:569][  0]LogSlate: BreadcrumbButton
+[2022.09.17-15.01.49:569][  0]LogSlate: Default
+[2022.09.17-15.01.49:569][  0]LogSlate: Icons.Save
+[2022.09.17-15.01.49:569][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.17-15.01.49:569][  0]LogSlate: ListView
+[2022.09.17-15.01.49:569][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.17-15.01.49:569][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.17-15.01.49:569][  0]LogSlate: TableView.DarkRow
+[2022.09.17-15.01.49:569][  0]LogSlate: TableView.Row
+[2022.09.17-15.01.49:569][  0]LogSlate: TreeView
+[2022.09.17-15.01.49:833][  0]SourceControl: Source control is disabled
+[2022.09.17-15.01.49:874][  0]SourceControl: Source control is disabled
+[2022.09.17-15.01.49:875][  0]SourceControl: Source control is disabled
+[2022.09.17-15.01.50:050][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.17-15.01.50:050][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.09.17-15.01.50:050][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.17-15.01.50:535][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 828DF55145B9D556436C4E8DFD1CADFE | Instance: DD0C85C84CF481EE73B0EAB6C9FD3A32 (DESKTOP-AONUVMI-14192).
+[2022.09.17-15.01.50:572][  0]LogPython: Using Python 3.9.7
+[2022.09.17-15.01.51:503][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.17-15.01.51:514][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.17-15.01.51:607][  0]SourceControl: Source control is disabled
+[2022.09.17-15.01.51:610][  0]SourceControl: Source control is disabled
+[2022.09.17-15.01.51:619][  0]SourceControl: Source control is disabled
+[2022.09.17-15.01.51:628][  0]LogUProjectInfo: Found projects:
+[2022.09.17-15.01.51:948][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.17-15.01.52:002][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.17-15.01.52:025][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.17-15.01.52:025][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.17-15.01.52:130][  0]LogCollectionManager: Loaded 0 collections in 0.003219 seconds
+[2022.09.17-15.01.52:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Saved/Collections/' took 0.00s
+[2022.09.17-15.01.52:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Content/Developers/Usuario/Collections/' took 0.00s
+[2022.09.17-15.01.52:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Content/Collections/' took 0.00s
+[2022.09.17-15.01.52:605][  0]LogEngine: Initializing Engine...
+[2022.09.17-15.01.52:621][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.17-15.01.52:622][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.17-15.01.52:923][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.17-15.01.52:924][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.17-15.01.52:936][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.01.52:974][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.17-15.01.52:975][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.17-15.01.53:001][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.17-15.01.53:002][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.17-15.01.53:002][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.17-15.01.53:002][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.17-15.01.53:002][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.17-15.01.53:002][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.17-15.01.53:002][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.17-15.01.53:002][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.17-15.01.53:002][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.17-15.01.53:002][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.17-15.01.53:002][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.17-15.01.53:002][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.17-15.01.53:002][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.17-15.01.53:003][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.17-15.01.53:003][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.17-15.01.53:003][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.17-15.01.53:011][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.17-15.01.53:058][  0]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Mi True Wireless EBs Basic 2 Stereo)
+[2022.09.17-15.01.53:058][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.17-15.01.53:061][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.17-15.01.53:061][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.17-15.01.53:061][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.17-15.01.53:061][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.17-15.01.53:063][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.17-15.01.53:063][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.17-15.01.53:063][  0]LogInit: FAudioDevice initialized.
+[2022.09.17-15.01.53:063][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.17-15.01.53:063][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.17-15.01.53:063][  0]LogInit: Texture streaming: Enabled
+[2022.09.17-15.01.53:102][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.17-15.01.53:112][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.17-15.01.53:145][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.17-15.01.53:153][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.17-15.01.53:153][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: SimpleShooterEditor Win64 Development
+[2022.09.17-15.01.55:318][  0]LogLiveCoding: Display: First instance in process group "UE_SimpleShooter_0xd5dbb942", spawning console
+[2022.09.17-15.01.55:319][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.17-15.01.55:319][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.17-15.01.55:343][  0]LogInit: Transaction tracking system initialized
+[2022.09.17-15.01.55:438][  0]BlueprintLog: New page: Editor Load
+[2022.09.17-15.01.55:675][  0]LocalizationService: Localization service is disabled
+[2022.09.17-15.01.55:735][  0]TimingProfiler: Initialize
+[2022.09.17-15.01.55:736][  0]TimingProfiler: OnSessionChanged
+[2022.09.17-15.01.55:736][  0]LoadingProfiler: Initialize
+[2022.09.17-15.01.55:736][  0]LoadingProfiler: OnSessionChanged
+[2022.09.17-15.01.55:736][  0]NetworkingProfiler: Initialize
+[2022.09.17-15.01.55:736][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.17-15.01.55:736][  0]MemoryProfiler: Initialize
+[2022.09.17-15.01.55:736][  0]MemoryProfiler: OnSessionChanged
+[2022.09.17-15.01.56:553][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23_Pt2/SimpleShooter/Content/' took 0.04s
+[2022.09.17-15.01.56:554][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.17-15.01.56:637][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.17-15.01.56:639][  0]SourceControl: Source control is disabled
+[2022.09.17-15.01.56:639][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.020
+[2022.09.17-15.01.56:639][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.17-15.01.56:639][  0]LightingResults: New page: Lighting Build
+[2022.09.17-15.01.56:649][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.01.56:649][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.01.56:649][  0]MapCheck: New page: Map Check
+[2022.09.17-15.01.56:649][  0]LightingResults: New page: Lighting Build
+[2022.09.17-15.01.56:659][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.17-15.01.56:662][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.17-15.01.56:743][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.09.17-15.01.56:750][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.17-15.01.56:751][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.17-15.01.56:752][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.17-15.01.56:752][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.17-15.01.57:078][  0]LogWorldPartition: Display: WorldPartition initialize took 325 ms
+[2022.09.17-15.01.57:305][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.17-15.01.57:314][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.09.17-15.01.57:314][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.17-15.01.57:327][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 12.756ms to complete.
+[2022.09.17-15.01.57:327][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.688
+[2022.09.17-15.01.57:343][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.723
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: ================================================
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.17-15.01.57:343][  0]LogShaderCompilers: Display: ================================================
+[2022.09.17-15.01.57:617][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.17-15.01.58:123][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.01.58:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.01.58:135][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.01.58:140][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.17-15.01.58:199][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:199][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:200][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:200][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:200][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:200][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:201][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:201][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:202][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:202][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:202][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:202][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:203][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:203][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:204][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:204][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:204][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:204][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:205][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.17-15.01.58:205][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.17-15.01.58:205][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.17-15.01.58:431][  0]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.17-15.01.58:441][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.17-15.01.58:442][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.17-15.01.58:475][  0]LogViewport: Scene viewport resized to 1406x858, mode Windowed.
+[2022.09.17-15.02.00:372][  0]LogStall: Startup...
+[2022.09.17-15.02.00:374][  0]LogStall: Startup complete.
+[2022.09.17-15.02.00:413][  0]LogLoad: (Engine Initialization) Total time: 16.79 seconds
+[2022.09.17-15.02.00:413][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.17-15.02.00:467][  0]LogAssetRegistry: Asset discovery search completed in 12.1102 seconds
+[2022.09.17-15.02.00:472][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.09.17-15.02.00:476][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.17-15.02.00:531][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.17-15.02.14:396][365]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.17-15.02.14:400][365]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.17-15.03.07:724][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_11 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_10 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_12 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_13 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_14 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_15 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_16 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_17 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_18 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_20 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_19 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_21 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_22 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_24 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_23 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:601][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_25 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:602][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_26 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:602][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_27 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:602][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Textures/T_HandScanner_UI.T_HandScanner_UI (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:602][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Textures/T_Laptop_Mail.T_Laptop_Mail (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:602][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Textures/T_WallCabinet_B_Diff.T_WallCabinet_B_Diff (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.09:602][955]LogMaterial: Display: Missing cached shadermap for M_Cave_Landscape_Master in PCD3D_SM5, Default, SM5 (DDC key hash: F970A65BA216991B73C2E33990DE531808398DEC), compiling. 
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_0 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_10 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_11 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_12 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_14 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_15 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_16 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_17 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_18 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_19 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_20 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_21 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_22 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:004][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_23 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_24 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_25 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_26 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_27 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_28 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_29 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_3 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_30 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_31 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_32 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_33 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_34 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_35 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:005][955]LogMaterial: Display: Missing cached shadermap for M_Cave_SimpleSnow in PCD3D_SM5, Default, SM5 (DDC key hash: 73327C5A0375CE5DFEF159ECDC105DAAEEC4AE1B), compiling. 
+[2022.09.17-15.03.10:112][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_36 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:112][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Textures/T_Smoke_SubUV.T_Smoke_SubUV (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:113][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_37 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:113][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_38 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:113][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_39 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:113][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_4 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:113][955]LogMaterial: Display: Missing cached shadermap for M_Decal_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 0FD07A382DADDDE7E2249019F65C303E0E071596), compiling. 
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_40 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_41 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_42 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_43 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_44 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_45 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_46 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_47 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_48 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_49 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_5 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_50 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_51 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:343][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_52 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_53 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_54 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_55 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_56 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_57 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_58 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_60 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_61 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_62 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_63 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_7 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_8 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Texture2D_9 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_28 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:344][955]LogMaterial: Display: Missing cached shadermap for M_Base_DecalNorm in PCD3D_SM5, Default, SM5 (DDC key hash: A015B1CCE0E411F440FF0E7B08786BD430344EB8), compiling. 
+[2022.09.17-15.03.10:448][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_29 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:448][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:448][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_30 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:448][955]LogMaterial: Display: Missing cached shadermap for M_SolidColor_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 61FA885E3CE0BDC40F2630E3C1D8C9F7472ED3C0), compiling. 
+[2022.09.17-15.03.10:519][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_31 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:519][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_32 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:519][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_33 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:519][955]LogMaterial: Display: Missing cached shadermap for MI_Floor_Black2 in PCD3D_SM5, Default, SM5 (DDC key hash: A5427BA3D1323A94FBB6771CDA4F341FF6FBAA89), compiling. 
+[2022.09.17-15.03.10:615][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_34 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:615][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_35 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:615][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_36 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:615][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_37 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:615][955]LogMaterial: Display: Missing cached shadermap for M_Reg_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: E136DAAB40FDF0775299FB68A093D58FC8B637A1), compiling. 
+[2022.09.17-15.03.10:738][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_38 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:738][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_39 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:738][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:738][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_40 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:738][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_41 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:738][955]LogMaterial: Display: Missing cached shadermap for M_Base_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: D6EE87B25100D39115889D390B0808F8E7D3CDEA), compiling. 
+[2022.09.17-15.03.10:818][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_42 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:818][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_43 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:818][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_44 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:818][955]LogMaterial: Display: Missing cached shadermap for M_Base_3C in PCD3D_SM5, Default, SM5 (DDC key hash: 93070915B5A4574FB2039FFBC7E51CFC4B594412), compiling. 
+[2022.09.17-15.03.10:893][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_45 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:893][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_46 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:893][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_47 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:893][955]LogMaterial: Display: Missing cached shadermap for M_Base_Trim in PCD3D_SM5, Default, SM5 (DDC key hash: E3ACCDDE69EBC521C86BB9647081F99662185375), compiling. 
+[2022.09.17-15.03.10:982][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_48 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:982][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_49 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:982][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:982][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_50 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:983][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_51 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:983][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_53 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:983][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_54 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:983][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_52 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:983][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_55 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:983][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_56 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:983][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_57 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.10:983][955]LogMaterial: Display: Missing cached shadermap for MI_Trims_C_FloorBlack_Det2 in PCD3D_SM5, Default, SM5 (DDC key hash: 99DD3F0187E205892C679E9B0FD28783FFE942B2), compiling. 
+[2022.09.17-15.03.11:065][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_58 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:065][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_59 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_6 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_61 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_60 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_62 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_63 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_64 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_65 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_67 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_66 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:068][955]LogMaterial: Display: Missing cached shadermap for M_Base_2C in PCD3D_SM5, Default, SM5 (DDC key hash: EA69E6B9177C1748160A21D471924AA4D538321F), compiling. 
+[2022.09.17-15.03.11:146][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_9 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:146][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:HQ_Lightmap1_8 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:146][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_10 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:146][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_11 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:146][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:147][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_12 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:147][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_13 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:147][955]LogMaterial: Display: Missing cached shadermap for M_Base_2C in PCD3D_SM5, Default, SM5 (DDC key hash: 2D365F480BFE37DA87E32DCA2B797094788B91D9), compiling. 
+[2022.09.17-15.03.11:226][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_14 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:226][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_15 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:226][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_16 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:226][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_17 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:226][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_18 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:226][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:226][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_19 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:226][955]LogMaterial: Display: Missing cached shadermap for M_Lights_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 9AC2E74DE20EEAFF4F6CAD7CE90E7F1E6AF6D1A0), compiling. 
+[2022.09.17-15.03.11:300][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_20 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:300][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_21 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:300][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_22 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:300][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_23 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:300][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_24 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:300][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_25 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:302][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_27 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:302][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_26 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:302][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_28 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:302][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_29 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:302][955]LogMaterial: Display: Missing cached shadermap for M_Decal_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 163E74EE1C035898F55B784EE3F52B83B69A388D), compiling. 
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_30 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_31 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_32 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_33 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_34 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_35 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_36 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_37 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_38 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_39 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_40 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_41 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:390][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_42 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:391][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_43 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:391][955]LogMaterial: Display: Missing cached shadermap for M_Base_3C in PCD3D_SM5, Default, SM5 (DDC key hash: 80365A655441DD8F8E6563C45ED2AFF8A6EFEAD1), compiling. 
+[2022.09.17-15.03.11:469][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_44 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:469][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_45 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:469][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_46 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:469][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_47 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:469][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_48 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:469][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_49 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:471][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:471][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_50 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:471][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_51 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:471][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_52 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:471][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_53 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:471][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_54 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:471][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_55 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:471][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_56 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:471][955]LogMaterial: Display: Missing cached shadermap for M_Base_Tile_Scr in PCD3D_SM5, Default, SM5 (DDC key hash: CF53539B9138F7719FA98A9F8AEDD5302F714492), compiling. 
+[2022.09.17-15.03.11:548][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_57 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:548][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_59 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:548][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_58 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:548][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_6 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:548][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_60 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:549][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_61 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:549][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_62 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:549][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_63 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:549][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_65 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:549][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_64 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:549][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_66 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:549][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_67 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:549][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_7 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:549][955]LogMaterial: Display: Missing cached shadermap for MI_Floor_E_Scr in PCD3D_SM5, Default, SM5 (DDC key hash: CDBAD3EC3B6892097BE72924E82A74771D6197C9), compiling. 
+[2022.09.17-15.03.11:632][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_8 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:632][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:LQ_Lightmap_1_9 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:632][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:ShadowMapTexture2D_3 (BGRA8, 1024X64 X1X1) (Required Memory Estimate: 1.666851 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:632][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:ShadowMapTexture2D_2 (BGRA8, 256X512 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:632][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_Cave_MountainRock_D.T_Cave_MountainRock_D (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:632][955]LogMaterial: Display: Missing cached shadermap for M_Base_4C_Scr in PCD3D_SM5, Default, SM5 (DDC key hash: F1F71D77125D9ED183AD5E799C75E16CF8C2CA3E), compiling. 
+[2022.09.17-15.03.11:719][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_Cave_Ice_Noise_D.T_Cave_Ice_Noise_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:720][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_CaveRock_Detail_N.T_CaveRock_Detail_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.11:720][955]LogMaterial: Display: Missing cached shadermap for M_Base_3C in PCD3D_SM5, Default, SM5 (DDC key hash: D667B4D4AFD4205CF6D2DF8AF171545F846FB927), compiling. 
+[2022.09.17-15.03.11:803][955]LogMaterial: Display: Missing cached shadermap for M_UIScreen_Parent in PCD3D_SM5, Default, SM5 (DDC key hash: A73109D05CD08A2D5E1692DC30822840CAD98568), compiling. 
+[2022.09.17-15.03.11:844][955]LogMaterial: Display: Missing cached shadermap for MI_HandScanner_Screen2 in PCD3D_SM5, Default, SM5 (DDC key hash: D147B69B00A29831D304D49AFB4C59018AEF6745), compiling. 
+[2022.09.17-15.03.11:877][955]LogMaterial: Display: Missing cached shadermap for MI_Laptop_Mail in PCD3D_SM5, Default, SM5 (DDC key hash: 8605394687BE0F6F9D3FBE78558D48C00114701E), compiling. 
+[2022.09.17-15.03.11:926][955]LogMaterial: Display: Missing cached shadermap for M_Reg_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: C23851D6F1963FE0CFF4E4326D7D1FDC2C02D7FC), compiling. 
+[2022.09.17-15.03.12:062][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_CaveRock_Detail_N_2.T_CaveRock_Detail_N_2 (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.12:062][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_Cave_Snow_D.T_Cave_Snow_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.12:062][955]LogMaterial: Display: Missing cached shadermap for M_IceBase in PCD3D_SM5, Default, SM5 (DDC key hash: 468F3167C8FEA85717DBA2AC69B3F2045411CBE5), compiling. 
+[2022.09.17-15.03.12:198][955]LogMaterial: Display: Missing cached shadermap for M_Base_SolidLight in PCD3D_SM5, Default, SM5 (DDC key hash: 0EFAF3A093F40CEA4FC1A84638B0C6C31B543049), compiling. 
+[2022.09.17-15.03.12:246][955]LogMaterial: Display: Missing cached shadermap for M_Lights in PCD3D_SM5, Default, SM5 (DDC key hash: 028CE42ED211A570B2ADDF9D8F94DC50DAC83CA9), compiling. 
+[2022.09.17-15.03.12:337][955]LogMaterial: Display: Missing cached shadermap for M_Light_Base in PCD3D_SM5, Default, SM5 (DDC key hash: BA4D12E7DB2623FB748076F3CF2265193D5A8AF7), compiling. 
+[2022.09.17-15.03.12:430][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Det_A...
+[2022.09.17-15.03.12:430][955]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Det_A.SM_Ceiling_Det_A
+[2022.09.17-15.03.12:430][955]LogMaterial: Display: Missing cached shadermap for M_SolidColor_Base in PCD3D_SM5, Default, SM5 (DDC key hash: A6B80040009DCA4B3C419A7572E244DA81E9EFBC), compiling. 
+[2022.09.17-15.03.12:521][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Det_B...
+[2022.09.17-15.03.12:521][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Main_A...
+[2022.09.17-15.03.12:521][955]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Det_B.SM_Ceiling_Det_B
+[2022.09.17-15.03.12:521][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Main_B...
+[2022.09.17-15.03.12:521][955]LogMaterial: Display: Missing cached shadermap for M_Base_3C in PCD3D_SM5, Default, SM5 (DDC key hash: 8E60C7E9FEC067CDB85ECB6342F9BDA95B76C940), compiling. 
+[2022.09.17-15.03.12:628][955]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Main_B.SM_Ceiling_Main_B
+[2022.09.17-15.03.12:628][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Main_C...
+[2022.09.17-15.03.12:628][955]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 560999A24265A5E4F14C0651B59AD2C32E3524C2), compiling. 
+[2022.09.17-15.03.12:787][955]LogStaticMesh: Built static mesh [0.23s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Main_A.SM_Ceiling_Main_A
+[2022.09.17-15.03.12:787][955]LogMaterial: Display: Missing cached shadermap for M_Base_Wires_B in PCD3D_SM5, Default, SM5 (DDC key hash: 96E305CD220E608359A53C415B2DCFD930E537BA), compiling. 
+[2022.09.17-15.03.12:888][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Main_D...
+[2022.09.17-15.03.12:888][955]LogMaterial: Display: Missing cached shadermap for M_EnergyEmissive in PCD3D_SM5, Default, SM5 (DDC key hash: DB08113A72DD7A5000AAD75A58ADBB5A3EBBF70D), compiling. 
+[2022.09.17-15.03.12:926][955]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Main_D.SM_Ceiling_Main_D
+[2022.09.17-15.03.12:926][955]LogMaterial: Display: Missing cached shadermap for M_Base_3C in PCD3D_SM5, Default, SM5 (DDC key hash: 22881706BD4634DE41474699B76D968F52F101E7), compiling. 
+[2022.09.17-15.03.13:041][955]LogStaticMesh: Built static mesh [0.40s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Main_C.SM_Ceiling_Main_C
+[2022.09.17-15.03.13:041][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_OuterRing_A...
+[2022.09.17-15.03.13:041][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_Kaly_Flowy.T_Kaly_Flowy (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.13:041][955]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: CF937CB34FB7EB468D5505304E98A3316A05658A), compiling. 
+[2022.09.17-15.03.13:170][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_OuterRing_B...
+[2022.09.17-15.03.13:170][955]LogMaterial: Display: Missing cached shadermap for M_Base_Wires in PCD3D_SM5, Default, SM5 (DDC key hash: 8D5626B16E49E3CA4399320CC827A0E378C7906C), compiling. 
+[2022.09.17-15.03.13:291][955]LogMaterial: Display: Missing cached shadermap for M_SolidLight_Parent in PCD3D_SM5, Default, SM5 (DDC key hash: C7E002CFBA911DB785FD0DB968F610CF5F03E8A8), compiling. 
+[2022.09.17-15.03.13:380][955]LogMaterial: Display: Missing cached shadermap for M_SolidColor_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 3F4A396391D50D247E8C06ABC52B119AE18B36CE), compiling. 
+[2022.09.17-15.03.13:459][955]LogMaterial: Display: Missing cached shadermap for M_Screen_Parent in PCD3D_SM5, Default, SM5 (DDC key hash: 83D602BF3C85C617CC148B312118CA2863083950), compiling. 
+[2022.09.17-15.03.13:561][955]LogMaterial: Display: Missing cached shadermap for M_Glass_Base in PCD3D_SM5, Default, SM5 (DDC key hash: CC8F29562BA5D62468124B8E582B0985F7DDE898), compiling. 
+[2022.09.17-15.03.13:700][955]LogStaticMesh: Built static mesh [0.54s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_OuterRing_A.SM_Ceiling_OuterRing_A
+[2022.09.17-15.03.13:700][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_OuterRing_C...
+[2022.09.17-15.03.13:700][955]LogMaterial: Display: Missing cached shadermap for M_UI_Parent in PCD3D_SM5, Default, SM5 (DDC key hash: 6E0A57D48A37EDCF3284F1CE7BEA68ABDE23ACFD), compiling. 
+[2022.09.17-15.03.13:754][955]LogStaticMesh: Built static mesh [0.55s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_OuterRing_B.SM_Ceiling_OuterRing_B
+[2022.09.17-15.03.13:754][955]LogMaterial: Display: Missing cached shadermap for M_Snow_Blowing_Lit in PCD3D_SM5, Default, SM5 (DDC key hash: 86733B9FA57CD156AA369E065BAD2FB5757FC8F6), compiling. 
+[2022.09.17-15.03.13:979][955]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_OuterRing_C.SM_Ceiling_OuterRing_C
+[2022.09.17-15.03.13:979][955]LogMaterial: Display: Missing cached shadermap for M_Snow_Blowing_unLit in PCD3D_SM5, Default, SM5 (DDC key hash: 204A113DBEADDB78DBFE2D35DAD2C60CBCD89334), compiling. 
+[2022.09.17-15.03.14:062][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_OuterRing_D...
+[2022.09.17-15.03.14:062][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Panel_A...
+[2022.09.17-15.03.14:062][955]LogMaterial: Display: Missing cached shadermap for M_SnowFlake_VelocityLerp in PCD3D_SM5, Default, SM5 (DDC key hash: F7CC3E6B8FD46BC68C9D1D82D095659C26367F24), compiling. 
+[2022.09.17-15.03.14:267][955]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Panel_A.SM_Ceiling_Panel_A
+[2022.09.17-15.03.14:267][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Pipe_Large...
+[2022.09.17-15.03.14:267][955]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Pipe_Large.SM_Ceiling_Pipe_Large
+[2022.09.17-15.03.14:268][955]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_OuterRing_D.SM_Ceiling_OuterRing_D
+[2022.09.17-15.03.14:268][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Pipe_Small...
+[2022.09.17-15.03.14:268][955]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Pipe_Small.SM_Ceiling_Pipe_Small
+[2022.09.17-15.03.14:268][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Ring_A1...
+[2022.09.17-15.03.14:268][955]LogMaterial: Display: Missing cached shadermap for M_SnowFlake_VelocityLerp_AA in PCD3D_SM5, Default, SM5 (DDC key hash: 5A81784E3533D0D436FA72552D18092D3929DEB5), compiling. 
+[2022.09.17-15.03.14:508][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Ring_A2...
+[2022.09.17-15.03.14:508][955]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Ring_A2.SM_Ceiling_Ring_A2
+[2022.09.17-15.03.14:508][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Sides_A...
+[2022.09.17-15.03.14:508][955]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Sides_A.SM_Ceiling_Sides_A
+[2022.09.17-15.03.14:508][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Window_A...
+[2022.09.17-15.03.14:508][955]LogMaterial: Display: Missing cached shadermap for M_Cave_Landscape_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 718A84A3FD814F48C213D7E06C4A0C615623843E), compiling. 
+[2022.09.17-15.03.14:724][955]LogStaticMesh: Built static mesh [0.38s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Ring_A1.SM_Ceiling_Ring_A1
+[2022.09.17-15.03.14:725][955]LogStaticMesh: Display: Building static mesh SM_Ceiling_Window_A_Glass...
+[2022.09.17-15.03.14:725][955]LogStaticMesh: Built static mesh [0.36s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Window_A.SM_Ceiling_Window_A
+[2022.09.17-15.03.14:725][955]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Window_A_Glass.SM_Ceiling_Window_A_Glass
+[2022.09.17-15.03.14:725][955]LogStaticMesh: Display: Building static mesh SM_Floor_Center_A1...
+[2022.09.17-15.03.14:725][955]LogMaterial: Display: Missing cached shadermap for M_BigSnow in PCD3D_SM5, Default, SM5 (DDC key hash: BAB4C11BAF4588B0BFDFA7EB4C7EA34F332081AA), compiling. 
+[2022.09.17-15.03.14:805][955]LogStaticMesh: Display: Building static mesh SM_Floor_Center_A2...
+[2022.09.17-15.03.14:805][955]LogMaterial: Display: Missing cached shadermap for M_IceChunks_01 in PCD3D_SM5, Default, SM5 (DDC key hash: AF3F68996CEA381DF4BB8C0C78845F4AE84A61F1), compiling. 
+[2022.09.17-15.03.14:994][955]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A2.SM_Floor_Center_A2
+[2022.09.17-15.03.14:994][955]LogStaticMesh: Display: Building static mesh SM_Floor_Center_A3...
+[2022.09.17-15.03.14:994][955]LogStaticMesh: Built static mesh [0.17s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A1.SM_Floor_Center_A1
+[2022.09.17-15.03.14:994][955]LogStaticMesh: Display: Building static mesh SM_Floor_Center_B...
+[2022.09.17-15.03.15:121][955]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 89E9A54A8D6D257E30D08D4244A8B9974276728D), compiling. 
+[2022.09.17-15.03.15:417][955]LogStaticMesh: Built static mesh [0.23s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_B.SM_Floor_Center_B
+[2022.09.17-15.03.15:417][955]LogStaticMesh: Display: Building static mesh SM_Floor_Center_Pipes_A...
+[2022.09.17-15.03.15:559][955]LogStaticMesh: Built static mesh [0.23s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_Pipes_A.SM_Floor_Center_Pipes_A
+[2022.09.17-15.03.15:559][955]LogStaticMesh: Display: Building static mesh SM_Floor_Filler...
+[2022.09.17-15.03.15:559][955]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Filler.SM_Floor_Filler
+[2022.09.17-15.03.15:559][955]LogStaticMesh: Display: Building static mesh SM_Floor_Panel_A1...
+[2022.09.17-15.03.15:813][955]LogStaticMesh: Built static mesh [0.14s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Panel_A1.SM_Floor_Panel_A1
+[2022.09.17-15.03.15:813][955]LogStaticMesh: Display: Building static mesh SM_Floor_Panel_A2...
+[2022.09.17-15.03.15:823][955]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Panel_A2.SM_Floor_Panel_A2
+[2022.09.17-15.03.15:851][955]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Map1
+[2022.09.17-15.03.15:853][955]LightingResults: New page: Lighting Build
+[2022.09.17-15.03.15:854][955]LoadErrors: New page: Loading map: Map1.umap
+[2022.09.17-15.03.15:947][955]LogStaticMesh: Display: Building static mesh SM_Floor_Panel_A3...
+[2022.09.17-15.03.15:947][955]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.17-15.03.15:948][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.17-15.03.15:963][955]MapCheck: New page: Map Check
+[2022.09.17-15.03.15:963][955]LightingResults: New page: Lighting Build
+[2022.09.17-15.03.15:999][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.17-15.03.16:045][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.09.17-15.03.16:077][955]LogTexture: Display: Waiting for textures to be ready 0/638 (/Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData) ...
+[2022.09.17-15.03.16:274][955]LogStaticMesh: Built static mesh [0.25s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Panel_A3.SM_Floor_Panel_A3
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture68ECB941411C75EA1A32D5B8928B9B8C (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureC10D2A6E446AF5AB630FAEA63C33E9C5 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureF69EF0D04E4C8CC573534DA2219C1CA5 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture4D2BB5BE43933FB7EC242783226CB7C7 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture937B048246A52ADCE1D932B5316689A2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureABD1FFCF42B46F97496A6D9B28914306 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogStaticMesh: Built static mesh [1.32s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3.SM_Floor_Center_A3
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureE5100B1347D61429FD0E0AA2949034FE (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture4D3D717F4609E7CB378F57AA50963E99 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureA344BD0F43E410A5465BA8B9330693F9 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureA1BF0CAB42DE4EB0DB0097B38C900AC9 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureB66C4DDC46D0578DA3A613AECE42D9F7 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureB99946E4417CDE8B4872E7A714E8EC44 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture3DD59C3D42B6CDED7EF582A08CAAE21F (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureD3D25FEC48742A59FBE85EAEA5A8B7F5 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture4D7AE9FD49D49BD2B408718801479DA7 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureE80D5DEA454766DB6250FFA297A83AB5 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureB678BFA64E8D1D04587182BF83EAF4B3 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:274][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture1EA9F8E74905B49B71B2E3ADD17E8D61 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:275][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureD83A2FD14DA7118BBED787891DF48511 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:275][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureA8C0647B49E1B0CABFFA88A5E07DFCC0 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:474][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureB6521C2C4611CE21175BBE9BEFE4F8AA (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:474][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture5100F9104B6C5DF36B7020AF5B37D784 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureA83DC1E24C38AA57F0A1C5B8A647E5BE (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture357E3E894BD527906934F1832BE55507 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureD302F2BE43F0CBE6BB38A1BE30E0A66D (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture251E94324BAA5894F0046086EA3B297E (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureC10A8CF64FE0F928C26DFAA793B93E58 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture487B6D6A43D7C588517467A0D1F87C72 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture480B3A4C457C1A38DBD4E2BE7D88432D (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureAB64842B4D39D7BF7EDB009AFC02EF76 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureA857B3724485D9A76BF0F08D40D92F5A (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture3CB59DC7452275589C1A77892F5A2B4B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureE58B6C8E475B57FE7CD002BFCC88E172 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTextureD05B9E0042C8099DDA14A78006575726 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture3560B3EB47F000C797308F9097798D57 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:475][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData:DeprecatedTexture7E7ECDB04305F9389D0FB9983E4DEE91 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:598][955]LogTexture: Display: Waiting for textures to be ready 158/638 (/Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_Kaly_Flowy) ...
+[2022.09.17-15.03.16:891][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_LS_Snow_01_D_Disp.T_LS_Snow_01_D_Disp (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:891][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_SnowMound_01_N.T_SnowMound_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.16:931][955]LogTexture: Display: Waiting for textures to be ready 159/638 (/Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_LS_Snow_01_D_Disp) ...
+[2022.09.17-15.03.17:096][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_Cave_Ice_Tiling_D.T_Cave_Ice_Tiling_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.17:654][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_Glacier_Cap_N.T_Glacier_Cap_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.17:654][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Textures/Decals/Floor/T_FloorSquare_A.T_FloorSquare_A (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.17:654][955]LogTexture: Display: Waiting for textures to be ready 160/638 (/Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_SnowMound_01_N) ...
+[2022.09.17-15.03.17:696][955]LogTexture: Display: Building textures: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Textures/Decals/Floor/T_FloorSquare_A_M.T_FloorSquare_A_M (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.17-15.03.17:696][955]LogTexture: Display: Waiting for textures to be ready 162/638 (/Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Textures/T_Glacier_Cap_N) ...
