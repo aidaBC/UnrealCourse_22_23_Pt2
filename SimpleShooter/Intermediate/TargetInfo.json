@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SimpleShooter",
+			"Path": "C:\\Users\\Usuario\\Desktop\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23_Pt2\\SimpleShooter\\Source\\SimpleShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SimpleShooterEditor",
+			"Path": "C:\\Users\\Usuario\\Desktop\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23_Pt2\\SimpleShooter\\Source\\SimpleShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
